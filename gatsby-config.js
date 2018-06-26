@@ -1,5 +1,8 @@
 module.exports = {
   // plugins: [`gatsby-plugin-typography`],
+  siteMetadata: {
+    title: `Blah Blah Fake Title`,
+  },
   plugins: [
     `gatsby-plugin-styled-components`,
     {
